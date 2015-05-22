@@ -1,0 +1,29 @@
+{
+  "name": "Saipis9",
+  "version": "0.0.1",
+  "authors": [
+    "Ololosh Ololoevich <Ololosh@Ololoevich.olo>"
+  ],
+  "description": "laba",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "saipis",
+    "laba"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "mustache.js": "~2.0.0"
+  }
+}

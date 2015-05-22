@@ -1,0 +1,40 @@
+{
+  "employees" :  [
+    {
+      "id" : 1,
+      "name" : "John Smith",
+      "department" : "Production",
+      "position" : "CEO"
+    },
+    {
+      "id" : 2,
+      "name" : "Carl Johnson",
+      "department" : "Market",
+      "position" : "Diller"
+    },
+    {
+      "id" : 3,
+      "name" : "Chev Chelios",
+      "department" : "Production",
+      "position" : "Hitman"
+    },
+    {
+      "id" : 4,
+      "name" : "Dominic Toretto",
+      "department" : "Production",
+      "position" : "Driver"
+    },
+    {
+      "id" : 5,
+      "name" : "Decart Show",
+      "department" : "Market",
+      "position" : "Mechanic"
+    },
+    {
+      "id" : 6,
+      "name" : "John Wayne",
+      "department" : "HR",
+      "position" : "Secretary"
+    }
+  ]
+}
